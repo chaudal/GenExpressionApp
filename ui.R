@@ -412,9 +412,7 @@ ui <- shinyUI(fluidPage(
             strong('What is it?'),
               "Hierarchical clustering is an extremely popular and simple type of clustering analysis." ,
               strong("What is it used for?"),
-            "Hierarchical clustering allows us to easily visualize similarities in our data through the grouping of
-              genes with similar expression levels, as visualized through the hierarchical tree.
-              Hierarchical clustering allows us to easily visualize similarities in our data through
+            "Hierarchical clustering allows us to easily visualize similarities in our data through
               the grouping of genes with similar expression levels, as can be seen in the hierarchical tree." )),
           fluidRow(
             column(width = 12, 

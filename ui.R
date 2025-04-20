@@ -436,7 +436,7 @@ ui <- shinyUI(fluidPage(
                  "K-means is one of the simplest types of clustering analyses, which makes it extremely popular.",
             strong("Why is it useful:"),
               "It can be used in a variety of situations and on various types of data, anything from genetic analysis to customer segmentation. 
-              It is an extremely powerful type of analysis, because there are very few requirements needed to perform it. (can put this at the end as a summarizing end sentence)"
+              It is an extremely powerful type of analysis, because there are very few requirements needed to perform it. "
           )),
           
           fluidRow(
